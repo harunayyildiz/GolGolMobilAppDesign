@@ -18,7 +18,7 @@ Giriş Seçimi | E-posta Giriş | Şifremi Unuttum
 
 
 
-Profil Bilgileri | Profil Fotoğrafı | Galeri/Kamera
+Profil Bilgileri | Profil Fotoğrafı | Fotoğraf Seçimi
 ------------ | ------------- | ------------- 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
 
