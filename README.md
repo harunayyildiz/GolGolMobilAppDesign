@@ -1,5 +1,25 @@
 # GolGolMobilAppDesign
+
 GolGol! Uygulamasının Tasarımı
+
+## Play Store
+
+Hemen Kullanmak için: [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+## Usage
+
+```dart
+//Flutter
+```
+
+## Amaç
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[Lisans](https://www.harunayyildiz.com//)
+
 <br>
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
 &nbsp; 
