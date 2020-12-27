@@ -12,9 +12,14 @@ Hemen Kullanmak için: [tıklayınız](https://www.harunayyildiz.com/)
 <br>
 Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/S%CC%A7ifremiUnuttum.png" alt="ŞifremiUnuttum" width="200" height="422">
+First Header | Second Header
+------------ | -------------
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/S%CC%A7ifremiUnuttum.png" alt="ŞifremiUnuttum" width="200" height="422">
+Content in the first column | Content in the second column
+
+
+
+
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422">
