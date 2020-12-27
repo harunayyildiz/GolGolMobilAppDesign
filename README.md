@@ -28,14 +28,14 @@ First Header | Second Header | Second Header
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GizlilikPolitikas%C4%B1.png" alt="Gizlilik" width="200" height="422">
 
 
+First Header | Second Header | Second Header
+------------ | ------------- | ------------- 
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubeStartVideo.png" alt="Youtube Video Start" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePauseVideo.png" alt="Pause Video" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePlayVideo.png" alt="Play Video" width="200" height="422">
 
 
 
 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubeStartVideo.png" alt="Youtube Video Start" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePauseVideo.png" alt="Pause Video" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePlayVideo.png" alt="Play Video" width="200" height="422">
-<br>
+
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88l.png" alt="Geçmiş Ödül" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88lSec%CC%A7im.png" alt="Geçmiş Ödül" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88l.png" alt="Gelecek Ödül" width="200" height="422">
