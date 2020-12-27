@@ -1,0 +1,2 @@
+# GolGolMobilAppDesign
+GolGol! Uygulamasının Tasarımı
