@@ -4,7 +4,7 @@ GolGol! Uygulamasının Tasarımı
 
 ## Play Store
 
-Hemen Kullanmak için: [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Hemen Kullanmak için: [golgol!](https://pip.pypa.io/en/stable/) tıklayınız
 
 ## Usage
 
@@ -20,7 +20,6 @@ Please make sure to update tests as appropriate.
 ## License
 [Lisans](https://www.harunayyildiz.com//)
 
-<br>
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
 &nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422">
