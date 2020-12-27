@@ -2,9 +2,9 @@
 
 GolGol! Uygulamasının Tasarımı
 <br>
-Amaç: GolGol Uygulaması ile Tahmin Yeteneğini geliştir! Ne kadar fanatik ve iddialı ise unutmaki şans senden yana...
+Amaç: GolGol! Uygulaması ile Tahmin Yeteneğini geliştir! Ne kadar Fanatik ve iddialı isen unutmaki şans senden yana...
 <br>
-Gol mü Değiş mi Tahmin et ve Hediyeleri kazanma şansı yakala!
+Gol mü Değil mi Tahmin et ve Hediyeleri kazanma şansı yakala!
 
 ## Play Store
 
@@ -13,21 +13,14 @@ Hemen Kullanmak için: [tıklayınız](https://www.harunayyildiz.com/)
 Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/S%CC%A7ifremiUnuttum.png" alt="ŞifremiUnuttum" width="200" height="422">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422">
-&nbsp; 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tirildi.png" alt="Profil Bilgileri" width="200" height="422">
-<br>
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubeStartVideo.png" alt="Youtube Video Start" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePauseVideo.png" alt="Pause Video" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubePlayVideo.png" alt="Play Video" width="200" height="422">
