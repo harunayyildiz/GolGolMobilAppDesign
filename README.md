@@ -1,6 +1,7 @@
 # GolGolMobilAppDesign
 
 GolGol! Uygulamasının Tasarımı
+<br>
 Amaç: GolGol Uygulaması ile Tahmin Yeteneğini geliştir! Ne kadar fanatik ve iddialı ise unutmaki şans senden yana...
 <br>
 Gol mü Değiş mi Tahmin et ve Hediyeleri kazanma şansı yakala!
