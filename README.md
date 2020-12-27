@@ -6,7 +6,8 @@ Please make sure to update tests as appropriate.
 
 ## Play Store
 
-Hemen Kullanmak için: [golgol!](https://pip.pypa.io/en/stable/) tıklayınız
+Hemen Kullanmak için: [tıklayınız](https://www.harunayyildiz.com/)
+Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
 &nbsp; 
