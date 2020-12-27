@@ -15,15 +15,16 @@ Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 First Header | Second Header
 ------------ | -------------
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/S%CC%A7ifremiUnuttum.png" alt="ŞifremiUnuttum" width="200" height="422">
-Content in the first column | Content in the second column
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422">
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422">
 
 
 
 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422">
+
+
+
+
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tirildi.png" alt="Profil Bilgileri" width="200" height="422">
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubeStartVideo.png" alt="Youtube Video Start" width="200" height="422">
