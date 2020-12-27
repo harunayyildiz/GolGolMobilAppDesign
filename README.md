@@ -1,12 +1,14 @@
 # GolGolMobilAppDesign
 
 GolGol! Uygulamasının Tasarımı
-Amaç: Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+Amaç: GolGol Uygulaması ile Tahmin Yeteneğini geliştir! Ne kadar fanatik ve iddialı ise unutmaki şans senden yana...
+<br>
+Gol mü Değiş mi Tahmin et ve Hediyeleri kazanma şansı yakala!
 
 ## Play Store
 
 Hemen Kullanmak için: [tıklayınız](https://www.harunayyildiz.com/)
+<br>
 Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="Giriş" width="200" height="422" class="center">
