@@ -23,11 +23,13 @@ First Header | Second Header | Second Header
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
 
 
+First Header | Second Header | Second Header
+------------ | ------------- | ------------- 
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GizlilikPolitikas%C4%B1.png" alt="Gizlilik" width="200" height="422">
 
 
 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/golgolPage.png" alt="GolGolPage" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/LiderlikTablosu.png" alt="LiderlikTablosu" width="200" height="422">
+
 
 
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/YoutubeStartVideo.png" alt="Youtube Video Start" width="200" height="422">
@@ -39,4 +41,4 @@ First Header | Second Header | Second Header
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88l.png" alt="Gelecek Ödül" width="200" height="422">
 <br>
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88lSec%CC%A7.png" alt="Gelecek Ödül Seç" width="200" height="422">
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GizlilikPolitikas%C4%B1.png" alt="Gizlilik" width="200" height="422">
+
