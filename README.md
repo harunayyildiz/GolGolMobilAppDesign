@@ -10,7 +10,7 @@ Gol mü Değil mi Tahmin et ve Hediyeleri kazanma şansı yakala!
 
 Hemen Kullanmak için: [tıklayınız](https://play.google.com/store/apps/details?id=com.golgol)
 <br>
-Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
+Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 
 Giriş Seçimi | E-posta Giriş | Şifremi Unuttum
 ------------ | ------------- | ------------- 
