@@ -8,7 +8,7 @@ Gol mü Değil mi Tahmin et ve Hediyeleri kazanma şansı yakala!
 
 ## Play Store
 
-Hemen Kullanmak için: [tıklayınız](https://www.harunayyildiz.com/)
+Hemen Kullanmak için: [tıklayınız](https://play.google.com/store/apps/details?id=com.golgol)
 <br>
 Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/)
 
